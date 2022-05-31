@@ -1,11 +1,7 @@
 # https://gcore.jsdelivr.net/gh/ayoux123/other@master/
-//# 国内使用
-//# https://jsdelivr.panbaidu.cn/gh/ayoux123/other@master/
 
 https://gcore.jsdelivr.net/gh/ayoux123/other@master/文件夹/文件名
 
-//# 国内使用
-//https://jsdelivr.panbaidu.cn/gh/ayoux123/other@master/文件夹/文件名
 
 # 缓存刷新
 把原来访问的链接
